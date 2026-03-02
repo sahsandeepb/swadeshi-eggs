@@ -1,4 +1,4 @@
 User-agent: *
 Allow:/
 
-Sitemap: https://sahsandeepb.github.io/swadeshi-eggs/sitemap.xml
+Sitemap: https://sahsandeepb.github.io/swadeshieggs.in/sitemap.xml
