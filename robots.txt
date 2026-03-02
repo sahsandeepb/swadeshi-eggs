@@ -1,4 +1,4 @@
 User-agent: *
-Allow:/
+Allow: /
 
-Sitemap: https://sahsandeepb.github.io/swadeshieggs.in/sitemap.xml
+Sitemap: https://swadeshieggs.in/sitemap.xml
