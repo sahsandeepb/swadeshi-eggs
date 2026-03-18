@@ -185,5 +185,30 @@
 <url>
   <loc>https://swadeshieggs.in/Best-Eggs-Near-Me.html</loc>
 </url>
+
+<script>
+
+function generateSitemap(){
+
+let urls=[
+"/",
+"/organic-eggs-delhi",
+"/desi-eggs-near-me",
+"/farm-fresh-eggs"
+]
+  
+urls.forEach(u=>{
+xml+=<url><loc>https://swadeshieggs.in${u}</loc></url>
+})
+
+xml+='</urlset>'
+
+console.log(xml)
+
+}
+
+generateSitemap()
+
+</script>
   
 </urlset>
