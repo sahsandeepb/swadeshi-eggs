@@ -35,6 +35,85 @@
   }
 }
 </script>
+
+<script>
+
+const SEO_ENGINE = {
+
+siteName:"Swadeshi Eggs",
+baseURL:"https://swadeshieggs.in",
+keyword:"organic eggs",
+
+init(){
+
+this.meta();
+this.schema();
+this.canonical();
+this.images();
+
+},
+
+meta(){
+
+document.title = Best ${this.keyword} Near Me | ${this.siteName};
+
+let metaDesc=document.createElement("meta");
+metaDesc.name="description";
+metaDesc.content=Buy fresh ${this.keyword} directly from organic farms;
+
+document.head.appendChild(metaDesc);
+
+let robots=document.createElement("meta");
+robots.name="robots";
+robots.content="index,follow";
+
+document.head.appendChild(robots);
+
+},
+
+schema(){
+
+let schemaData={
+"@context":"https://schema.org",
+"@type":"Organization",
+"name":this.siteName,
+"url":this.baseURL
+};
+
+let s=document.createElement("script");
+s.type="application/ld+json";
+s.text=JSON.stringify(schemaData);
+
+document.head.appendChild(s);
+
+},
+
+canonical(){
+
+let link=document.createElement("link");
+link.rel="canonical";
+link.href=window.location.href;
+
+document.head.appendChild(link);
+
+},
+
+images(){
+
+document.querySelectorAll("img").forEach(img=>{
+if(!img.alt){
+img.alt=this.keyword;
+}
+img.loading="lazy";
+});
+
+}
+
+}
+
+SEO_ENGINE.init()
+
+</script>
 </head>
 
 <body>
@@ -117,6 +196,83 @@
     <a href="https://wa.me/918287703258" class="btn green">💬 WhatsApp Order</a>
   </div>
 </section>
+
+<script>
+
+const KEYWORDS = [
+"organic eggs",
+"desi eggs",
+"farm fresh eggs",
+"country eggs",
+"organic eggs near me",
+"best organic eggs",
+"buy organic eggs online"
+]
+
+const CITIES = [
+"delhi","noida","gurgaon","mumbai","pune","jaipur","lucknow",
+"bangalore","hyderabad","chennai","kolkata","ahmedabad"
+]
+
+function generatePages(){
+
+let container=document.createElement("div")
+
+KEYWORDS.forEach(keyword=>{
+
+CITIES.forEach(city=>{
+
+let page=document.createElement("section")
+
+page.innerHTML = `
+<h2>${keyword} in ${city}</h2>
+<p>Buy fresh ${keyword} in ${city}. Farm fresh desi eggs delivered near you.</p>
+<a href="/${keyword.replaceAll(" ","-")}-${city}">
+View Page
+</a>
+`
+
+container.appendChild(page)
+
+})
+
+})
+
+document.body.appendChild(container)
+
+}
+
+generatePages()
+
+</script>
+
+<script>
+
+const LINKS = [
+"/organic-eggs-delhi",
+"/organic-eggs-noida",
+"/organic-eggs-india",
+"/desi-eggs-near-me",
+"/farm-fresh-eggs"
+]
+
+let hiddenLinks=document.createElement("div")
+hiddenLinks.style.display="none"
+
+LINKS.forEach(link=>{
+
+let a=document.createElement("a")
+a.href=link
+a.innerText="organic eggs"
+
+hiddenLinks.appendChild(a)
+
+})
+
+document.body.appendChild(hiddenLinks)
+
+</script>
+
 <!-- ================= LEGAL STRIP ================= -->
 <div class="legal-strip">
   <span class="legal-item">
