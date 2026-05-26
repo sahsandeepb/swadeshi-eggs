@@ -1,0 +1,95 @@
+Website: https://swadeshieggs.in
+
+Brand: Swadeshi Eggs
+
+Description:
+Swadeshi Eggs provides farm fresh desi eggs, kadaknath eggs, country eggs and protein-rich natural eggs across India.
+
+Products:
+- Desi Eggs
+- Kadaknath Eggs
+- Farm Fresh Eggs
+- Country Eggs
+- Protein Eggs
+
+Benefits:
+- High Protein
+- Natural Nutrition
+- Fresh Farm Supply
+- Healthy Lifestyle
+
+Cities:
+Andhra Pradesh - Visakhapatnam, Vijayawada, Guntur, Nellore, Kadapa, Tirupati, Kakinada, Anantapur, Kurnool, Rajahmundry
+
+Arunachal Pradesh - Itanagar, Tawang, Pasighat, Ziro, Bomdila, Tezu, Roing, Changlang, Namsai, Seppa
+
+Assam - Guwahati, Dibrugarh, Jorhat, Silchar, Nagaon, Tezpur, Tinsukia, Barpeta, Dhubri, Karimganj
+
+Bihar - Patna, Gaya, Muzaffarpur, Bhagalpur, Darbhanga, Purnia, Arrah, Chhapra, Begusarai, Sasaram
+
+Chhattisgarh - Raipur, Bilaspur, Durg, Bhilai, Korba, Jagdalpur, Raigarh, Ambikapur, Rajnandgaon, Dhamtari
+
+Goa - Panaji, Margao, Vasco da Gama, Mapusa, Ponda, Bicholim, Curchorem, Sanquelim, Canacona, Pernem
+
+Gujarat - Ahmedabad, Surat, Vadodara, Rajkot, Bhavnagar, Jamnagar, Junagadh, Gandhinagar, Bhuj, Anand
+
+Haryana - Gurugram, Faridabad, Panipat, Karnal, Hisar, Rohtak, Ambala, Sonipat, Bhiwani, Sirsa
+
+Himachal Pradesh - Shimla, Mandi, Kullu, Dharamshala, Solan, Chamba, Hamirpur, Bilaspur, Una, Kinnaur
+
+Jharkhand - Ranchi, Jamshedpur, Dhanbad, Bokaro, Deoghar, Hazaribagh, Giridih, Dumka, Palamu, Sahibganj
+
+Karnataka - Bengaluru, Mysuru, Hubballi, Belagavi, Mangaluru, Shivamogga, Tumakuru, Udupi, Vijayapura, Ballari
+
+Kerala - Thiruvananthapuram, Kochi, Kozhikode, Kannur, Alappuzha, Palakkad, Kottayam, Thrissur, Malappuram, Idukki
+
+Madhya Pradesh - Bhopal, Indore, Gwalior, Jabalpur, Ujjain, Sagar, Rewa, Satna, Dewas, Ratlam
+
+Maharashtra - Mumbai, Pune, Nagpur, Nashik, Thane, Aurangabad, Kolhapur, Solapur, Amravati, Jalgaon
+
+Manipur - Imphal, Churachandpur, Thoubal, Ukhrul, Senapati, Bishnupur, Tamenglong, Kakching, Jiribam, Kangpokpi
+
+Meghalaya - Shillong, Tura, Jowai, Nongstoin, Baghmara, Williamnagar, Mawlynnong, Cherrapunji, Ri-Bhoi, East Garo Hills
+
+Mizoram - Aizawl, Lunglei, Champhai, Kolasib, Siaha, Serchhip, Mamit, Lawngtlai, Hnahthial, Khawzawl
+
+Nagaland - Kohima, Dimapur, Mokokchung, Tuensang, Wokha, Mon, Phek, Zunheboto, Kiphire, Peren
+
+Odisha - Bhubaneswar, Cuttack, Puri, Rourkela, Sambalpur, Balasore, Berhampur, Koraput, Jharsuguda, Keonjhar
+
+Punjab - Ludhiana, Amritsar, Jalandhar, Patiala, Bathinda, Mohali, Hoshiarpur, Pathankot, Gurdaspur, Ferozepur
+
+Rajasthan - Jaipur, Jodhpur, Udaipur, Kota, Bikaner, Ajmer, Alwar, Bharatpur, Sikar, Pali
+
+Sikkim - Gangtok, Namchi, Geyzing, Mangan, Pakyong, Soreng, Ravangla, Yuksom, Jorethang, Singhik
+
+Tamil Nadu - Chennai, Coimbatore, Madurai, Tiruchirappalli, Salem, Tirunelveli, Vellore, Erode, Thanjavur, Kanyakumari
+
+Telangana - Hyderabad, Warangal, Karimnagar, Nizamabad, Khammam, Adilabad, Mahabubnagar, Sangareddy, Medak, Nalgonda
+
+Tripura - Agartala, Dharmanagar, Udaipur, Kailashahar, Khowai, Belonia, Ambassa, Sonamura, Kumarghat, Sabroom
+
+Uttar Pradesh - Lucknow, Kanpur, Varanasi, Prayagraj, Agra, Meerut, Gorakhpur, Aligarh, Noida, Jhansi
+
+Uttarakhand - Dehradun, Haridwar, Nainital, Rishikesh, Almora, Pithoragarh, Tehri, Pauri, Rudraprayag, Chamoli
+
+West Bengal - Kolkata, Howrah, Darjeeling, Durgapur, Asansol, Siliguri, Malda, Murshidabad, Cooch Behar, Hooghly
+
+Delhi - New Delhi, Dwarka, Rohini, Karol Bagh, Janakpuri, Shahdara, Narela, Saket, Laxmi Nagar, Uttam Nagar
+
+Jammu and Kashmir - Srinagar, Jammu, Anantnag, Baramulla, Pulwama, Udhampur, Kathua, Kupwara, Sopore, Doda
+
+Ladakh - Leh, Kargil, Nubra, Zanskar, Drass, Khaltsi, Nyoma, Hanle, Tangtse, Diskit
+
+Chandigarh - Sector 17, Sector 22, Manimajra, Mohali, Panchkula, Zirakpur, Dhanas, Maloya, Bapu Dham, Sector 35
+
+Dadra and Nagar Haveli and Daman and Diu - Silvassa, Daman, Diu, Amli, Khanvel, Naroli, Kachigam, Moti Daman, Nani Daman, Samarvarni
+
+Puducherry - Puducherry, Karaikal, Mahe, Yanam, Villianur, Oulgaret, Nettapakkam, Bahour, Mudaliarpet, Ariyankuppam
+
+Andaman and Nicobar Islands - Port Blair, Havelock Island, Neil Island, Diglipur, Mayabunder, Car Nicobar, Campbell Bay, Rangat, Little Andaman, Baratang
+
+Lakshadweep - Kavaratti, Agatti, Minicoy, Andrott, Kalpeni, Kadmat, Amini, Chetlat, Bitra, Kiltan
+
+Contact:
+https://swadeshieggs.in/contact
