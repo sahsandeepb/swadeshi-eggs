@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://swadeshieggs.in/sitemap.xml
+AI-Content: https://swadeshieggs.in/llms.txt
